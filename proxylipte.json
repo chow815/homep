@@ -3,7 +3,14 @@
   "rules": [
     {
       "domain": [
+        "www.cpu-monkey.com",
         "cpu-monkey.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".pu-monkey.com",
+        ".u-monkey.com"
       ]
     }
   ]
