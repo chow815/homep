@@ -2,8 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        ".cpu-monkey.com"
+      "domain": [
+        "cpu-monkey.com"
       ]
     }
   ]
